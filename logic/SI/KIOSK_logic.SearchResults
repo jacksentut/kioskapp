@@ -1,0 +1,4 @@
+---- ST_TERM_TIMER Matches (3 in 1 files) ----
+Api_lib.c (d:\share\02 kiosk imx6sl\12 application\logic):} ST_TERM_TIMER;
+Api_lib.c (d:\share\02 kiosk imx6sl\12 application\logic):ST_TERM_TIMER Ttimer;
+Api_lib.c (d:\share\02 kiosk imx6sl\12 application\logic):    memset(&Ttimer, 0, sizeof(ST_TERM_TIMER));
