@@ -1,1 +1,1 @@
-# kioskapp
+This is a test.
